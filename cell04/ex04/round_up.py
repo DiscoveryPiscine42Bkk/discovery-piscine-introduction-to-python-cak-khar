@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import math
 instr = input("Give me a number: ")
 inflt = float(instr)
